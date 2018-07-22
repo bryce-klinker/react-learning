@@ -13,6 +13,8 @@ render(
     <Composition>
       <Stateful />
     </Composition>
+    <span style={{ display: 'block', height: '20px' }} />
+    <PassMeData name="Dwight Shrutte" title="Assitant to the Regional Manager" />
   </div>,
   document.getElementById('root')
 );

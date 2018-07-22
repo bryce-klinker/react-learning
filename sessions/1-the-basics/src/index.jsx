@@ -1,8 +1,9 @@
 import React from 'react';
 import { render } from 'react-dom';
-import Stateful from './stateful-component';
-import Stateless from './stateless-component';
+import Stateful from './stateful';
+import Stateless from './stateless';
 import Composition from './composition';
+import PassMeData from './pass-me-data';
 
 render(
   <div>

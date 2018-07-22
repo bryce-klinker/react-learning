@@ -41,8 +41,8 @@ npm start
 # Where should you start?
 
 1.  Fix tests in the following order
-1.  [Stateless Component](./src/stateless.spec.jsx)
-1.  [Stateful Component](./src/stateful.spec.jsx)
-1.  [Composition Component](./src/composition.spec.jsx)
-1.  [Pass Me Data Component](./src/pass-me-data.spec.jsx)
+    a. [Stateless Component](./src/stateless.spec.jsx)
+    a. [Stateful Component](./src/stateful.spec.jsx)
+    a. [Composition Component](./src/composition.spec.jsx)
+    a. [Pass Me Data Component](./src/pass-me-data.spec.jsx)
 1.  Run app to view components working in the browser

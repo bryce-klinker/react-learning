@@ -12,3 +12,18 @@ This repo contains the examples, presentations, and all other materials used in 
 
 - Node: 8 or greater
 - Yarn: 1 or greater
+
+## Packages
+
+Each session has the basic setup for a react application. This includes the following:
+
+- Webpack
+  - including a simple configuration
+- Prettier
+  - Auto-formatting of code on commit
+- Jest
+  - Test runner
+- launch.json
+  - Launch config for vscode
+- .babelrc
+  - Configures babel for transpiling ES2015+ to ES5 compatible javascript

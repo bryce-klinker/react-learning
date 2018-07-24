@@ -1,0 +1,3 @@
+{
+  "reporters": ["jest-spec-reporter"]
+}

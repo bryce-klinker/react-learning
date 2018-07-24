@@ -4,6 +4,12 @@ This session is intended to provide you with a basic introduction to React. The 
 
 Below are commands that you will need to know to verify the tests work and how to view your code running in a browser.
 
+## Goals
+
+- Understand how to create React Components
+  - Basic intro to component lifecycle
+- Yarn/npm basics
+
 ## Getting Started
 
 First you will need to install the dependencies required to run tests and run the site using a dev server:
@@ -42,7 +48,7 @@ npm start
 
 1.  Fix tests in the following order
     1.  [Stateless Component](./src/stateless.spec.jsx)
-    1.  [Stateful Component](./src/stateful.spec.jsx)
-    1.  [Composition Component](./src/composition.spec.jsx)
-    1.  [Pass Me Data Component](./src/pass-me-data.spec.jsx)
-1.  Run app to view components working in the browser
+    2.  [Stateful Component](./src/stateful.spec.jsx)
+    3.  [Composition Component](./src/composition.spec.jsx)
+    4.  [Pass Me Data Component](./src/pass-me-data.spec.jsx)
+2.  Run app to view components working in the browser

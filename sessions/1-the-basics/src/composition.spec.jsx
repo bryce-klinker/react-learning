@@ -13,10 +13,4 @@ describe('Composition', () => {
     const root = renderer.root;
     expect(root.find(e => e.type === 'span' && e.props.id === 'child').children).toContain('This is composed');
   });
-
-  it('should show title', () => {
-    const renderer = TestRenderer.create(<Composition>{'idk'}</Composition>);
-
-    expect(renderer.root.find(e => e.type === 'h1').children).toContain('Composition:');
-  });
 });

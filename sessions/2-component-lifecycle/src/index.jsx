@@ -1,4 +1,6 @@
+import '@babel/polyfill';
 import React from 'react';
 import { render } from 'react-dom';
+import Lifecycle from './Lifecycle';
 
-render(<div />, document.getElementById('root'));
+render(<Lifecycle />, document.getElementById('root'));

@@ -7,6 +7,10 @@ This session is intented to provide you with a basic understanding of react comp
 ## Goals
 
 - Understand commonly used React Component Lifecycle
+- Exposure to:
+  - fake timers in jest
+  - spying in jest
+  - simulating async
 
 ## Getting Started
 
